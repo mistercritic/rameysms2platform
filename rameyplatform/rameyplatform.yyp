@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2ab20829-f36d-4c5c-96e3-b2406d97951d",
+            "Value": {
+                "id": "5125038b-11e5-4c14-9b3b-080dab3e19ea",
+                "resourcePath": "fonts\\fMenu\\fMenu.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "2c15a713-08dd-4532-906c-58fbdce3aa15",
             "Value": {
                 "id": "97bd376d-5981-46dd-92cb-f1aed97b7082",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "5402dc61-4548-47fd-afb7-77582fa1b243",
+            "Value": {
+                "id": "c691bb60-521a-43bd-b488-f8208c6f0550",
+                "resourcePath": "objects\\oMenu\\oMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5e029a37-c709-4ffa-b94e-53f3571b4b6f",
             "Value": {
                 "id": "c87165ec-81fe-4f59-8a85-6bc396d406f2",
@@ -172,6 +188,14 @@
                 "id": "f9658af1-0ed6-485c-9ee1-8cf43ebc4920",
                 "resourcePath": "sprites\\sGun\\sGun.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "65f03797-1805-4990-a90b-7ba47f722131",
+            "Value": {
+                "id": "a9cea1f1-94d9-49a8-a414-838944beae68",
+                "resourcePath": "rooms\\rMenu\\rMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
