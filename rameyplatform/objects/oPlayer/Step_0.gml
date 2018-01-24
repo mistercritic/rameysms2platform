@@ -1,4 +1,4 @@
- //Get Player Inputt
+ //Get Player Input
 if (hascontrol)
 {
 key_left = keyboard_check(vk_left) || keyboard_check(ord ("A"));
