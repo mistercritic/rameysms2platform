@@ -43,3 +43,22 @@ else
 }
 if (hsp != 0) image_xscale = sign(hsp)*size;
 image_yscale = size;
+
+//enemy collison
+if (place_meeting(x, y, oPlayer))
+{
+	if (oPlayer.y < y - 16)
+	{
+		with (oPlayer) vsp =- jumpspeed;
+		instance_destroy();
+	}
+	else
+	{
+		with (oPlayer)
+{
+	hp--;
+	flash = 3;
+	hitfrom = oPlayer.direction;
+}
+	}
+}

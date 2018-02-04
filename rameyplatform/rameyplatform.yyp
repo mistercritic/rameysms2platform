@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2d6b610f-511c-4ec4-a886-046298d59ff1",
+            "Value": {
+                "id": "adbbbc16-1111-452b-8788-063f8ac603a2",
+                "resourcePath": "objects\\oEnemyBig\\oEnemyBig.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2fa38132-078a-426a-ba9a-d689c7785f80",
             "Value": {
                 "id": "8dd0af57-c7da-4308-96aa-87efe4c2bcfd",

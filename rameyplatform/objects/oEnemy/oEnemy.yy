@@ -5,16 +5,6 @@
     "name": "oEnemy",
     "eventList": [
         {
-            "id": "f9ca909a-b50e-4554-944d-f41ff8d70313",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "2fa38132-078a-426a-ba9a-d689c7785f80"
-        },
-        {
             "id": "e0e65289-c38c-4821-bad3-ddb7a315e877",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -170,7 +160,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "2",
+            "value": "1",
             "varName": "size",
             "varType": 0
         }
